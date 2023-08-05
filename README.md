@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto _Login Page_ foi realizado como parte do #11 desafio #BORACODAR da RocketSeat sugerido pelo professor <a href="https://github.com/maykbrito" alt="Link para o GitHub do professor Mayk Brito" target="_blank">Mayk Brito</a>.
 
-- [Acesse o projeto finalizado, online]([https://jp-xaxa.github.io/devlinks](https://jp-xaxa.github.io/pagina-clima-github-vscode/)
+- [Acesse o projeto finalizado, online]([https://jp-xaxa.github.io/devlinks](https://jp-xaxa.github.io/pagina-clima-github-vscode/))
 <h1 align="center">
   Funcionalidades
 </h1>
