@@ -44,5 +44,5 @@ O desafio foi a criação do layout de uma página com informações de login <a
 Você pode visualizar o layout proposto pela RocketSeat através do da <a href="#-layout-figma">imagem abaixo</a>. Disponibilizado pelo [Figma](https://figma.com) durante o período do desafio.
 
 <p align="center" id="-layout-figma">
-  <img alt="login figma" src="./assets/figma.png" width="100%">
+  <img alt="login figma" src="./assets/Figma.png" width="100%">
 </p>
